@@ -4,7 +4,7 @@ DESCRIPCION
  
 SOLUCION
 Investigue mas sobre las bases hasta encontrar una pista de en que base estaba use una pagina
-l3arn_th3_r0p35
+picoCTF{l3arn_th3_r0p35}
 
 NOTAS ADICIONALES
 lo que esta a base 64 tiene 20 dígitos
