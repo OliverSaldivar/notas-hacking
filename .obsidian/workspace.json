@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/04 - General Skills/10 - ASCII NUMBERS.md",
+                "file": "picoCTF/01 - WEB/06 - CLIENT SIDE AGAIN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - ASCII NUMBERS"
+              "title": "06 - CLIENT SIDE AGAIN"
             }
           }
         ]
@@ -171,8 +171,16 @@
   },
   "active": "5251db5b60616ac2",
   "lastOpenFiles": [
-    "picoCTF/04 - General Skills/09 - BINHEXA.md",
+    "picoCTF/01 - WEB/05 - PICO BROWSER.md",
+    "picoCTF/01 - WEB/06 - CLIENT SIDE AGAIN.md",
+    "picoCTF/01 - WEB/04 - DONT USE CLIENT SIDE.md",
+    "picoCTF/01 - WEB/03 - LOGON.md",
+    "picoCTF/01 - WEB/02 - WHERE ARE THE ROBOTS.md",
+    "picoCTF/01 - WEB/01 - INSP3CTOR.md",
+    "Bienvenido.md",
     "picoCTF/04 - General Skills/10 - ASCII NUMBERS.md",
+    "picoCTF/01 - WEB",
+    "picoCTF/04 - General Skills/09 - BINHEXA.md",
     "picoCTF/04 - General Skills/08 - BINARY SEARCH.md",
     "picoCTF/04 - General Skills/07 - COLLABORATIVE DEVELOPMENT.md",
     "picoCTF/04 - General Skills/06 - BLAME GAME.md",
@@ -191,14 +199,7 @@
     "picoCTF/03 - General Skills/06 - FIXME.PY.md",
     "picoCTF/03 - General Skills/05 - FIXME.PY.md",
     "picoCTF/03 - General Skills/04 - CONVERTME.PY.md",
-    "picoCTF/03 - General Skills/03 - CODEBOOK.md",
-    "picoCTF/03 - General Skills/02 - RUNME.PY.md",
-    "picoCTF/03 - General Skills/01 - Super SSH.md",
-    "plantilla.md",
-    "picoCTF/02 - General Skills/03 - WAVE A FLAG.md",
     "picoCTF/03 - General Skills",
-    "picoCTF/01 - General Skills/01 - LETS WARM UP.md",
-    "picoCTF/01 - General Skills/02 - 2WARM.md",
     "picoCTF/02 - General Skills",
     "picoCTF/01 - General Skills",
     "picoCTF"
