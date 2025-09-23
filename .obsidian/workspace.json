@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - WEB/06 - CLIENT SIDE AGAIN.md",
+                "file": "picoCTF/02 - WEB/03 - SCAVENGER HUNT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - CLIENT SIDE AGAIN"
+              "title": "03 - SCAVENGER HUNT"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "5251db5b60616ac2",
   "lastOpenFiles": [
-    "picoCTF/01 - WEB/05 - PICO BROWSER.md",
+    "picoCTF/02 - WEB/02 - COOKIES.md",
+    "picoCTF/02 - WEB/03 - SCAVENGER HUNT.md",
+    "picoCTF/02 - WEB/01 - GET aHEAD.md",
     "picoCTF/01 - WEB/06 - CLIENT SIDE AGAIN.md",
+    "picoCTF/02 - WEB",
+    "picoCTF/01 - WEB/05 - PICO BROWSER.md",
     "picoCTF/01 - WEB/04 - DONT USE CLIENT SIDE.md",
     "picoCTF/01 - WEB/03 - LOGON.md",
     "picoCTF/01 - WEB/02 - WHERE ARE THE ROBOTS.md",
@@ -196,9 +200,6 @@
     "picoCTF/03 - General Skills/10 - SERPENTINE.md",
     "picoCTF/03 - General Skills/09 - PW CRACK3.md",
     "picoCTF/03 - General Skills/07 - PW CRACK1.md",
-    "picoCTF/03 - General Skills/06 - FIXME.PY.md",
-    "picoCTF/03 - General Skills/05 - FIXME.PY.md",
-    "picoCTF/03 - General Skills/04 - CONVERTME.PY.md",
     "picoCTF/03 - General Skills",
     "picoCTF/02 - General Skills",
     "picoCTF/01 - General Skills",
