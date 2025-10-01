@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - WEB/03 - JAWT SCRATCHPAD.md",
+                "file": "picoCTF/04 - WEB/04 - MOST COOKIES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - JAWT SCRATCHPAD"
+              "title": "04 - MOST COOKIES"
             }
           }
         ]
@@ -171,8 +171,14 @@
   },
   "active": "5251db5b60616ac2",
   "lastOpenFiles": [
-    "picoCTF/03 - WEB/02 - MORE SQLI.md",
+    "picoCTF/04 - WEB/03 - TRIKSTER.md",
+    "picoCTF/04 - WEB/04 - MOST COOKIES.md",
+    "picoCTF/04 - WEB/02 - SOAP.md",
+    "picoCTF/04 - WEB/01 - MATCH THE REGEX.md",
+    "picoCTF/04 - WEB/Sin nombre",
     "picoCTF/03 - WEB/03 - JAWT SCRATCHPAD.md",
+    "picoCTF/04 - WEB",
+    "picoCTF/03 - WEB/02 - MORE SQLI.md",
     "picoCTF/03 - WEB/01 - IRISH-NAME-REPO.md",
     "picoCTF/02 - WEB/01 - GET aHEAD.md",
     "picoCTF/03 - WEB",
@@ -196,11 +202,7 @@
     "picoCTF/04 - General Skills/04 - COMMITMENT ISSUES.md",
     "picoCTF/04 - General Skills/03 - SPECIAL.md",
     "picoCTF/04 - General Skills/02 - CHRONO.md",
-    "picoCTF/04 - General Skills/01 - PERMISSIONS.md",
-    "picoCTF/03 - General Skills/08 - PW CRACK2.md",
     "picoCTF/04 - General Skills",
-    "picoCTF/02 - General Skills/07 - MAGIKARP GROUND MISSION.md",
-    "picoCTF/02 - General Skills/02 - STRINGS IT.md",
     "picoCTF/03 - General Skills",
     "picoCTF/02 - General Skills",
     "picoCTF/01 - General Skills",
