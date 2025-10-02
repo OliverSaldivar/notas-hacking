@@ -1,0 +1,12 @@
+
+DESCRIPCION
+Additional details will be available after launching your challenge instance.
+
+SOLUCION
+HABIA QUE UTILIZAR EL BURPSUITE Y QUITAR EL OTP PARA QUE NO LO REQUIRIERA
+picoCTF{#0TP_Bypvss_SuCc3$S_6bffad21}
+
+NOTAS ADICIONALES
+DIFICIL
+
+REFERENCIAS
