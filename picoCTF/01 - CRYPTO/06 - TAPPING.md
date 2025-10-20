@@ -1,5 +1,5 @@
 DESCRIPCION
-Theres tapping coming in from the wires. What's it saying `nc jupiter.challenges.picoctf.org 21610`.
+Theres tapping coming in from the wires. What's it saying `nc jupiter.challenges.picoctf.org 21610`
 
 SOLUCION
 ERA CODIGO MORSE QUE HABIA QUE  DECODIFICAR

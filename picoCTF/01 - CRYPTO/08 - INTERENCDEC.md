@@ -3,7 +3,7 @@ Can you get the real meaning from this file.Download the file [here](https://ar
 
 SOLUCION
 HABIA QUE DESENCRIPTAR A BASE 64 Y LUEGO A ROT 13 CAESAR
-picoCTF{caesar_d3cr9pt3d_890d2379}|
+picoCTF{caesar_d3cr9pt3d_890d2379}
 
 NOTAS ADICIONALES
 

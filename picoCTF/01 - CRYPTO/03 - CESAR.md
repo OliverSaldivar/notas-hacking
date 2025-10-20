@@ -1,5 +1,5 @@
 DESCRIPCION
-Decrypt this [message](https://jupiter.challenges.picoctf.org/static/6385b895dcb30c74dbd1f0ea271e3563/ciphertext).
+Decrypt this [message](https://jupiter.challenges.picoctf.org/static/6385b895dcb30c74dbd1f0ea271e3563/ciphertext)
 
 SOLUCION
 habia que desencriptar la parte faltante de la bandera con una pagina
