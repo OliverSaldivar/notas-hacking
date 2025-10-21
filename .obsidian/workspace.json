@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - CRYPTO/01 - THE NUMBERS.md",
+                "file": "picoCTF/02 - CRYPTO/RSA POP QUIZ (EXP.PY).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - THE NUMBERS"
+              "title": "RSA POP QUIZ (EXP.PY)"
             }
           }
         ],
@@ -186,8 +186,11 @@
   },
   "active": "519e9c711c8bd3c5",
   "lastOpenFiles": [
-    "picoCTF/Sin título.md",
+    "picoCTF/03 - FORENSIC/05 - MACROHARD WEAKEDGE.md",
+    "picoCTF/02 - CRYPTO/RSA POP QUIZ (EXP.PY).md",
+    "picoCTF/02 - CRYPTO",
     "picoCTF/01 - CRYPTO/01 - THE NUMBERS.md",
+    "picoCTF/Sin título.md",
     "picoCTF/01 - CRYPTO/02 - 13.md",
     "picoCTF/01 - CRYPTO/03 - CESAR.md",
     "picoCTF/01 - CRYPTO/04 - EASY 1.md",
@@ -198,7 +201,6 @@
     "picoCTF/Sin título 1.md",
     "picoCTF/01 - CRYPTO",
     "README.md",
-    "picoCTF/03 - FORENSIC/05 - MACROHARD WEAKEDGE.md",
     "picoCTF/03 - FORENSIC/04 - TUNN3L_V1S10N.md",
     "picoCTF/03 - FORENSIC/03 - MATRYOSHKA DOLL.md",
     "picoCTF/03 - FORENSIC/02 - WEBNET1.md",
@@ -213,14 +215,12 @@
     "picoCTF/PrimerExamenParcial/01 - FANTASY CTF.md",
     "picoCTF/PrimerExamenParcial/06 - RUST FIXME 3.md",
     "picoCTF/PrimerExamenParcial/05 - RUST FIXME 2.md",
-    "picoCTF/PrimerExamenParcial/04 - RUST FIXME1.md",
     "picoCTF/PrimerExamenParcial",
     "picoCTF/02 - FORENSIC",
     "picoCTF/05 - WEB",
     "picoCTF/01 - FORENSIC",
     "picoCTF/04 - WEB/Sin nombre",
     "picoCTF/04 - WEB",
-    "picoCTF/03 - WEB",
-    "picoCTF/02 - WEB"
+    "picoCTF/03 - WEB"
   ]
 }
