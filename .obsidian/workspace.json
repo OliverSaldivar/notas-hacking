@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - CRYPTO/RSA POP QUIZ (EXP.PY).md",
+                "file": "picoCTF/04 - FORENSIC/10 - FLAGS ARE STEPIC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RSA POP QUIZ (EXP.PY)"
+              "title": "10 - FLAGS ARE STEPIC"
             }
           }
         ],
@@ -186,8 +186,20 @@
   },
   "active": "519e9c711c8bd3c5",
   "lastOpenFiles": [
-    "picoCTF/03 - FORENSIC/05 - MACROHARD WEAKEDGE.md",
+    "picoCTF/04 - FORENSIC/09 - PH4NT0N 1NTRUD3R.md",
+    "picoCTF/04 - FORENSIC/08 - RED.md",
+    "picoCTF/04 - FORENSIC/07 - SECRET OF THE POLYGLOT.md",
+    "picoCTF/04 - FORENSIC/01 - INFORMATION.md",
+    "picoCTF/04 - FORENSIC/02 - ST3G0.md",
+    "picoCTF/04 - FORENSIC/03 - REDACTION GONE WRONG.md",
+    "picoCTF/04 - FORENSIC/04 - HIDEME.md",
+    "picoCTF/04 - FORENSIC/05 - SCAN SUPRISE.md",
+    "picoCTF/04 - FORENSIC/06 - CANYOUSEE.md",
+    "picoCTF/04 - FORENSIC/10 - FLAGS ARE STEPIC.md",
+    "picoCTF/04 - FORENSIC/Sin nombre",
     "picoCTF/02 - CRYPTO/RSA POP QUIZ (EXP.PY).md",
+    "picoCTF/04 - FORENSIC",
+    "picoCTF/03 - FORENSIC/05 - MACROHARD WEAKEDGE.md",
     "picoCTF/02 - CRYPTO",
     "picoCTF/01 - CRYPTO/01 - THE NUMBERS.md",
     "picoCTF/Sin título.md",
@@ -204,23 +216,11 @@
     "picoCTF/03 - FORENSIC/04 - TUNN3L_V1S10N.md",
     "picoCTF/03 - FORENSIC/03 - MATRYOSHKA DOLL.md",
     "picoCTF/03 - FORENSIC/02 - WEBNET1.md",
-    "picoCTF/03 - FORENSIC/01 - WEBNET0.md",
-    "picoCTF/PrimerExamenParcial/12 - COOKIE MONSTER SECRET RECIPE.md",
     "picoCTF/03 - FORENSIC",
-    "picoCTF/PrimerExamenParcial/11 - BOOKMARKLET.md",
-    "picoCTF/PrimerExamenParcial/10 - SPECIALER.md",
-    "picoCTF/PrimerExamenParcial/09 - SANSALPHA.md",
-    "picoCTF/PrimerExamenParcial/08 - FLAG_SHOP.md",
-    "picoCTF/PrimerExamenParcial/07 - DONT-YOU-LOVE-BANNERS.md",
-    "picoCTF/PrimerExamenParcial/01 - FANTASY CTF.md",
-    "picoCTF/PrimerExamenParcial/06 - RUST FIXME 3.md",
-    "picoCTF/PrimerExamenParcial/05 - RUST FIXME 2.md",
     "picoCTF/PrimerExamenParcial",
     "picoCTF/02 - FORENSIC",
     "picoCTF/05 - WEB",
     "picoCTF/01 - FORENSIC",
-    "picoCTF/04 - WEB/Sin nombre",
-    "picoCTF/04 - WEB",
-    "picoCTF/03 - WEB"
+    "picoCTF/04 - WEB/Sin nombre"
   ]
 }
