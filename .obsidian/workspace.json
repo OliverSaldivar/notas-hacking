@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/04 - CRYPTO/04 - READMYCERT.md",
+                "file": "picoCTF/05 - CRYPTO/10 - VIGENERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - READMYCERT"
+              "title": "10 - VIGENERE"
             }
           }
         ],
@@ -186,8 +186,19 @@
   },
   "active": "519e9c711c8bd3c5",
   "lastOpenFiles": [
-    "picoCTF/04 - CRYPTO/05 - FLAGS.md",
+    "picoCTF/05 - CRYPTO/09 - SUBSTITUTION 2.md",
+    "picoCTF/05 - CRYPTO/10 - VIGENERE.md",
+    "picoCTF/05 - CRYPTO/08 - SUBSTITUTION1.md",
+    "picoCTF/05 - CRYPTO/07 - SUBSTITUTION0.md",
+    "picoCTF/05 - CRYPTO/06 - RAIL-FENCE.md",
+    "picoCTF/05 - CRYPTO/05 - MORSE CODE.md",
+    "picoCTF/05 - CRYPTO/04 - HASHTRACK.md",
+    "picoCTF/05 - CRYPTO/03 - EVEN RSA CAN BE BROKEN.md",
+    "picoCTF/05 - CRYPTO/02 - credstuff.md",
+    "picoCTF/05 - CRYPTO/01 - CRACK THE POWER.md",
     "picoCTF/04 - CRYPTO/04 - READMYCERT.md",
+    "picoCTF/05 - CRYPTO",
+    "picoCTF/04 - CRYPTO/05 - FLAGS.md",
     "picoCTF/04 - CRYPTO/02 - BASIC-MOD1.md",
     "picoCTF/04 - CRYPTO/01 - PIXELATED.md",
     "picoCTF/04 - CRYPTO/03 - HIDETOOSEE.md",
@@ -203,16 +214,6 @@
     "picoCTF/04 - General Skills/09 - BINHEXA.md",
     "picoCTF/04 - General Skills/08 - BINARY SEARCH.md",
     "picoCTF/04 - General Skills/07 - COLLABORATIVE DEVELOPMENT.md",
-    "picoCTF/04 - General Skills/06 - BLAME GAME.md",
-    "picoCTF/04 - General Skills/05 - TIME MACHINE.md",
-    "picoCTF/04 - General Skills/03 - SPECIAL.md",
-    "picoCTF/04 - General Skills/02 - CHRONO.md",
-    "picoCTF/04 - General Skills/01 - PERMISSIONS.md",
-    "picoCTF/03 - FORENSIC/05 - MACROHARD WEAKEDGE.md",
-    "picoCTF/03 - FORENSIC/03 - MATRYOSHKA DOLL.md",
-    "picoCTF/03 - FORENSIC/02 - WEBNET1.md",
-    "picoCTF/03 - FORENSIC/01 - WEBNET0.md",
-    "picoCTF/03 - FORENSIC/04 - TUNN3L_V1S10N.md",
     "picoCTF/04 - FORENSIC/Sin nombre",
     "picoCTF/04 - FORENSIC",
     "picoCTF/02 - CRYPTO",
@@ -220,7 +221,6 @@
     "picoCTF/03 - FORENSIC",
     "picoCTF/PrimerExamenParcial",
     "picoCTF/02 - FORENSIC",
-    "picoCTF/05 - WEB",
-    "picoCTF/01 - FORENSIC"
+    "picoCTF/05 - WEB"
   ]
 }
