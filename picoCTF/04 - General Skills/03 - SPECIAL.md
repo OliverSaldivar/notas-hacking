@@ -6,7 +6,7 @@ Habrá más detalles disponibles después de iniciar tu instancia de desafío.
 
 SOLUCION
 Tienes que huir del prompt special, huyendo hacia python, y desde ahi si poder hacer tus busquedas
-picoCTF{5p311ch3ck_15_7h3_w0r57_b741d1b1}ç
+picoCTF{5p311ch3ck_15_7h3_w0r57_b741d1b1}
 
 NOTAS ADICIONALES
 este reto fue dificil
