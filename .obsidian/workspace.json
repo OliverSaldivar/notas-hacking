@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/05 - CRYPTO/10 - VIGENERE.md",
+                "file": "picoCTF/01 - REVERSING/05 - VAULT-DOOR-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - VIGENERE"
+              "title": "05 - VAULT-DOOR-5"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plantilla.md",
+                "file": "picoCTF/01 - REVERSING/05 - VAULT-DOOR-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de plantilla"
+              "title": "Enlaces entrantes de 05 - VAULT-DOOR-5"
             }
           },
           {
@@ -186,8 +186,14 @@
   },
   "active": "519e9c711c8bd3c5",
   "lastOpenFiles": [
-    "picoCTF/05 - CRYPTO/09 - SUBSTITUTION 2.md",
+    "picoCTF/01 - REVERSING/04 - VAULT-DOOR-4.md",
+    "picoCTF/01 - REVERSING/05 - VAULT-DOOR-5.md",
+    "picoCTF/01 - REVERSING/03 - VAULT-DOOR-3.md",
+    "picoCTF/01 - REVERSING/02 - VAULT-DOOR-1.md",
+    "picoCTF/01 - REVERSING/01 - VAULT-DOOR-TRAINING.md",
     "picoCTF/05 - CRYPTO/10 - VIGENERE.md",
+    "picoCTF/01 - REVERSING",
+    "picoCTF/05 - CRYPTO/09 - SUBSTITUTION 2.md",
     "picoCTF/05 - CRYPTO/08 - SUBSTITUTION1.md",
     "picoCTF/05 - CRYPTO/07 - SUBSTITUTION0.md",
     "picoCTF/05 - CRYPTO/06 - RAIL-FENCE.md",
@@ -209,18 +215,12 @@
     "picoCTF/04 - FORENSIC/04 - HIDEME.md",
     "picoCTF/04 - FORENSIC/03 - REDACTION GONE WRONG.md",
     "picoCTF/04 - FORENSIC/06 - CANYOUSEE.md",
-    "picoCTF/04 - General Skills/04 - COMMITMENT ISSUES.md",
-    "picoCTF/04 - General Skills/10 - ASCII NUMBERS.md",
-    "picoCTF/04 - General Skills/09 - BINHEXA.md",
-    "picoCTF/04 - General Skills/08 - BINARY SEARCH.md",
-    "picoCTF/04 - General Skills/07 - COLLABORATIVE DEVELOPMENT.md",
     "picoCTF/04 - FORENSIC/Sin nombre",
     "picoCTF/04 - FORENSIC",
     "picoCTF/02 - CRYPTO",
     "picoCTF/01 - CRYPTO",
     "picoCTF/03 - FORENSIC",
     "picoCTF/PrimerExamenParcial",
-    "picoCTF/02 - FORENSIC",
-    "picoCTF/05 - WEB"
+    "picoCTF/02 - FORENSIC"
   ]
 }
